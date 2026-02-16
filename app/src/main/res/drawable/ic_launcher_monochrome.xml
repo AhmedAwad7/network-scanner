@@ -19,5 +19,11 @@
         <path
             android:fillColor="#000000"
             android:pathData="M30,26c-2.21,0 -4,1.79 -4,4s1.79,4 4,4 4,-1.79 4,-4 -1.79,-4 -4,-4z" />
+        <!-- Scan lines -->
+        <path
+            android:fillColor="#000000"
+            android:pathData="M30,14v4M30,42v4M14,30h4M42,30h4"
+            android:strokeWidth="2"
+            android:strokeColor="#000000" />
     </group>
 </vector>
